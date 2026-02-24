@@ -1,4 +1,4 @@
-<h1><b>Contoh v1.0.3</b></h1>
+# **Contoh v1.0.3**
 <img src="https://tirta.ct.ws/aset/gambar/contoh_library_python.png"></img>
 
 Ini adalah contoh library python yang paling simpel, sederhana, dan digunakan sebagai sampel/contoh.
