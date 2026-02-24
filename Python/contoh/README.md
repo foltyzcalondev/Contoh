@@ -1,5 +1,5 @@
 # **Contoh v1.0.3**
-<marquee>Ini librarey keren!😎🔥</marquee>
+<i>Ini librarey keren!😎🔥</i>
 
 [Logo library Contoh](./aset/gambar/contoh_library_python.png)
 
