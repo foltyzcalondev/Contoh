@@ -1,4 +1,6 @@
 # **Contoh v1.0.3**
+<marquee>Ini librarey keren!😎🔥</marquee>
+
 [Logo library Contoh](./aset/gambar/contoh_library_python.png)
 
 Ini adalah contoh library python yang paling simpel, sederhana, dan digunakan sebagai sampel/contoh.
