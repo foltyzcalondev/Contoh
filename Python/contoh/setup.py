@@ -11,7 +11,7 @@ setup(
   long_description_content_type = "text/markdown",
   author = "Ahmad Daniar",
   author_email = "foltyzxzhen@gmail.com",
-  url = "https://github.com/foltyzcalondev/Contoh/Python",
+  url = "https://github.com/foltyzcalondev/Contoh/Python/contoh",
   license = "MIT",
   classifiers = [
      "Development Status :: 5 - Production/Stable",
