@@ -1,5 +1,5 @@
 # **Contoh v1.0.3**
-[Logo library Contoh](./aset/gambar/contoh_library_python.png)
+[Logo library Contoh](./aset/gambar/IMG-20260224-WA0011.jpg)
 
 Ini adalah contoh library python yang paling simpel, sederhana, dan digunakan sebagai sampel/contoh.
 Ditujukan untuk logging, testing, eksperimen, dll.
