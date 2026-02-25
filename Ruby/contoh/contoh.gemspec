@@ -12,7 +12,7 @@ Gem::Specification.new do |spec|
 
     spec.files = ["lib/contoh.rb", "bin/contoh", "Gemfile", "README.md", "LICENSE", "CHANGELOG.md"]
     spec.test_files = ["spec/contoh_spec.rb"]
-    spec.executables = ["bin/contoh"]
+    spec.executables = ["contoh"]
     spec.require_paths = ["lib"]
 
     spec.platform = Gem::Platform::RUBY
