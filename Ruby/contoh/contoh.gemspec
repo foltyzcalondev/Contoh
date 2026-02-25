@@ -5,12 +5,12 @@ Gem::Specification.new do |spec|
     spec.version = "1.0.0"
     spec.summary = "Contoh library Ruby sederhana."
     spec.description = "Ini adalah contoh library Ruby yang sangat sederhana dan minimalis untuk tujuan logging, testing, dan debugging di terminal."
-    spec.authors = ["Ahmad Daniar"]
+    spec.authors = ["Seseorang Anonim", "@ RubyIndonesia", "@ Ahmad Daniar"]
     spec.email = ["foltyzxzhen@gmail.com"]
     spec.homepage = "https://github.com/foltyzcalondev/Contoh/Ruby/contoh"
     spec.license = "MIT"
 
-    spec.files = ["lib/**/*.rb", "bin/*", "README.md", "LICENSE"]
+    spec.files = ["lib/**/*.rb", "bin/*", "Gemfile", "README.md", "LICENSE", "CHANGELOG.md"]
     spec.test_files = ["spec/*.rb"]
     spec.executables = spec.files.grep(%r{^/bin}) { |f| File.basename(f) }
     spec.require_paths = ["lib"]
