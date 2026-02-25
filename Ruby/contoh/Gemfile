@@ -1,0 +1,16 @@
+# Gemfile
+source "https://rubygems.org"
+
+gemspec
+
+group :development do
+   gem 'bundler'
+   gem 'aesthetify'
+   gem 'nokogiri'
+end
+
+group :testing, :tasking do
+   gem 'rspec'
+   gem 'rake'
+   gem 'minitest'
+end
