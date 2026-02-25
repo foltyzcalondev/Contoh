@@ -1,3 +1,5 @@
+# Ini adalah contoh executable.
+
 #!/usr/bin/env ruby
 require 'contoh'
 Contoh::contoh
