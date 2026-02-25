@@ -2,7 +2,7 @@ require 'aesthetify'
 
 class Contoh
    def self.contoh 
-       puts "Contoh v1.0.0".aesthetify!
+       puts "Contoh v1.0.1".aesthetify!
        puts "\e[34mIni adalah contoh library Ruby :)\e[0m"
    end
    def self.halo
