@@ -1,4 +1,4 @@
-# **Contoh v1.0.0**
+# **Contoh v1.0.1**
 **Ini adalah contoh library Ruby yang paing simpel dan sederhana :)**
 
 **Library ini ditujukan untuk testing, debugging, dan logging sederhana di terminal.**
@@ -6,7 +6,7 @@
 ```{ruby}
    require 'contoh'
 
-   c = Contoh.new
+   c = Contoh
    c.contoh()
    # Atau bisa langsung: Contoh::contoh
    c.halo # memunculkan pesan "Halo Dunia!" di terminal.
