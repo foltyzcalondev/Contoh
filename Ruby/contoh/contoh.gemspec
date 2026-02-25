@@ -19,7 +19,9 @@ Gem::Specification.new do |spec|
 
     spec.metadata = {
        "bugtracker_uri" => "https://github.com/foltyzcalondev/Contoh/Ruby/contoh/issues",
-       "changelog_uri" => "https://github.com/foltyzcalondev/Contoh/Ruby/contoh/Changelog.md",
-       "homepage_uri" => "https://github.com/foltyzcalondev/Contoh/Ruby/contoh"
+       "changelog_uri" => "https://github.com/foltyzcalondev/Contoh/Ruby/contoh/CHANGELOG.md",
+       "documentation_uri" => "https://github.com/foltyzcalondev/Contoh/Ruby/contoh/blob/main/README.md",
+       "homepage_uri" => "https://github.com/foltyzcalondev/Contoh/Ruby/contoh",
+       "source_code_uri" => "https://github.com/foltyzcalondev/Contoh/Ruby/contoh.git"
     }
 end
