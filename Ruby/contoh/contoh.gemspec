@@ -10,9 +10,9 @@ Gem::Specification.new do |spec|
     spec.homepage = "https://github.com/foltyzcalondev/Contoh/Ruby/contoh"
     spec.license = "MIT"
 
-    spec.files = ["lib/**/*.rb", "bin/*", "Gemfile", "README.md", "LICENSE", "CHANGELOG.md"]
-    spec.test_files = ["spec/*.rb"]
-    spec.executables = spec.files.grep(%r{^/bin}) { |f| File.basename(f) }
+    spec.files = ["lib/contoh.rb", "bin/contoh", "Gemfile", "README.md", "LICENSE", "CHANGELOG.md"]
+    spec.test_files = ["spec/contoh_spec.rb"]
+    spec.executables = ["bin/contoh"]
     spec.require_paths = ["lib"]
 
     spec.platform = Gem::Platform::RUBY
