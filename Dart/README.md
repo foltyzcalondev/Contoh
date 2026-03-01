@@ -15,7 +15,7 @@
 
 ## Fitur Utama Library:
 * Logging dan debugging sederhana di terminal.
-* Dapat dijalankan dengan: `dart pub run contoh`.
+* Dapat dijalankan dengan perintah: `dart pub run contoh`.
 * Sangat fleksibel dan minimalis untuk sebagai contoh library Dart.
 
 **Untuk lebih detailnya kunjungi: https://github.com/foltyzcalondev/Contoh.**
