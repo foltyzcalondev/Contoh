@@ -13,7 +13,7 @@ dev_dependencies:
   test: ^1.0.0
   build_test: ^1.0.0
 executables:
-  contoh: lib/alat_cli.dart
+  contoh: lib/contoh_alat_cli.dart
 topics:
   - contoh
   - library
