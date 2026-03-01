@@ -5,10 +5,32 @@ homepage: https://github.com/foltyzcalondev/Contoh
 repository: https://github.com/foltyzcalondev/Contoh.git
 author: Ahmad Daniar <foltyzxzhen@gmail.com>
 license: MIT
+environment:
+  sdk: ">=2.12.0 <3.0.0"
 dependencies:
   http: ^1.0.0
 dev_dependencies:
   test: ^1.0.0
   build_test: ^1.0.0
 executables:
-  contoh: lib/alat.dart
+  contoh: lib/alat_cli.dart
+topics:
+  - contoh
+  - library
+  - dart
+  - simpel
+  - sederhana
+  - misal
+  - sampel
+  - example
+  - percobaan
+  - testing
+  - debugging
+  - console
+  - pertama
+documentation:
+  - https://terraria-flow.vercel.app
+issue_tracker:
+  - https://www.tirta.ct.ws
+funding:
+  - https://www.anin.ct.ws
