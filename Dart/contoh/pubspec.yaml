@@ -1,0 +1,14 @@
+name: contoh
+version: 1.0.0
+description: Ini adalah contoh library Dart.
+homepage: https://github.com/foltyzcalondev/Contoh
+repository: https://github.com/foltyzcalondev/Contoh.git
+author: Ahmad Daniar <foltyzxzhen@gmail.com>
+license: MIT
+dependencies:
+  http: ^1.0.0
+dev_dependencies:
+  test: ^1.0.0
+  build_test: ^1.0.0
+executables:
+  contoh: lib/alat.dart
